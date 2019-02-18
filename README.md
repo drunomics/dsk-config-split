@@ -1,6 +1,6 @@
 # DSK config split
 
-Adds suiting default config for config_split and drunomics/drush-phapp-env-mode.
+Adds suiting default config for config_split and [drunomics/drush-phapp-env-mode](https://github.com/drunomics/drush-phapp-env-mode).
 
 ## Usage
 
