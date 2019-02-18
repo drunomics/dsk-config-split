@@ -1,0 +1,7 @@
+name: DSK config split
+type: module
+description: Provides suiting default config for config split.
+package: DSK
+core: 8.x
+dependencies:
+  - drupal:config_split
